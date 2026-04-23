@@ -158,9 +158,8 @@ pip install pandas numpy scikit-learn yfinance pandas_ta reportlab
 ```
 quant-trading-engine/
 │
-├── quant_trading_system.py   ← the engine (all 9 components)
-├── Untitled15.ipynb          ← Jupyter notebook with live examples
-├── STRATEGY_GUIDE.pdf        ← plain-English breakdown of every strategy
+├── Quantitative_Trading_Strategy.ipynb         ← Jupyter notebook with live examples
+├── QuantitativeStrategy_Guide.pdf        ← plain-English breakdown of every strategy
 └── README.md                 ← you are here
 ```
 
